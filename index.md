@@ -11,9 +11,9 @@
     <!-- End Google Tag Manager -->
 
     <meta charset="utf-8">
-    <title>Razonet Contabilidade Digital</title>
+    <title>Conext Contabilidade Digital</title>
 
-    <link rel="shortcut icon" href="https://www.razonet.com.br/img/favicon.png">
+    <link rel="shortcut icon" href="">
 
     <!--Import Google Icon Font-->
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
